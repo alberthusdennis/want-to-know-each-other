@@ -1,4 +1,4 @@
-// 100+ Pertanyaan — Kenal Pelan-Pelan
+// 101 Pertanyaan — Yuk, Ngobrol!
 // Gaya bahasa: santai, hangat, pake "kamu"
 
 const finalQuestions = [
@@ -349,12 +349,12 @@ const finalQuestions = [
     {
         id: 65,
         category: "Hobi & Kehidupan Sehari-hari",
-        text: "Satu film atau series yang menurut kamu wajib banget direkomendasiin ke orang lain?"
+        text: "Kalau disuruh rekomendasiin satu film atau series ke orang lain, apa yang paling kamu rekomendasiin?"
     },
     {
         id: 66,
         category: "Hobi & Kehidupan Sehari-hari",
-        text: "Konten apa yang paling sering muncul di FYP atau beranda kamu akhir-akhir ini?"
+        text: "Kamu nonton drakor nggak? Kalau iya, drakor apa yang paling kamu suka?"
     },
     {
         id: 67,
@@ -364,17 +364,17 @@ const finalQuestions = [
     {
         id: 68,
         category: "Hobi & Kehidupan Sehari-hari",
-        text: "Selain WhatsApp dan Instagram, aplikasi apa yang paling sering kamu buka?"
+        text: "Aplikasi apa aja sih yang sering kamu buka selain WA sama IG?"
     },
     {
         id: 69,
         category: "Hobi & Kehidupan Sehari-hari",
-        text: "Ada lagu yang akhir-akhir ini sering kamu putar terus?"
+        text: "Dari semua drakor yang pernah kamu tonton, mana yang paling berkesan buat kamu?"
     },
     {
         id: 70,
         category: "Hobi & Kehidupan Sehari-hari",
-        text: "Kalau kamu punya waktu luang lebih banyak, hobi random apa yang pengen kamu coba?"
+        text: "Musik atau lagu apa yang akhir-akhir ini sering kamu putar?"
     },
     {
         id: 71,
@@ -453,7 +453,7 @@ const finalQuestions = [
     {
         id: 85,
         category: "Karakter & Cara Bersosialisasi",
-        text: "Dari semua kesan pertama yang pernah orang kasih ke kamu, mana yang paling bikin kamu mikir 'loh, serius?'"
+        text: "Dari semua kesan pertama yang pernah orang kasih ke kamu, mana yang paling bikin kamu kaget?"
     },
     {
         id: 86,
@@ -488,7 +488,7 @@ const finalQuestions = [
     {
         id: 92,
         category: "Karakter & Cara Bersosialisasi",
-        text: "Kesan pertama kamu ke orang yang pendiem biasanya gimana? Apa langsung kamu nilai atau kamu kasih waktu dulu?"
+        text: "Kalau ketemu orang yang pendiem, biasanya kamu langsung ngebentuk opini atau kamu kasih waktu dulu?"
     },
 
     // =========================================================
